@@ -29,6 +29,8 @@
 | X5 | Cyan LED (490nm - 510nm) | 1 | Light source | LXZ1-PE01 | [Mouser](https://www.mouser.com/ProductDetail/Lumileds/LXZ1-PE01?qs=7Vwje68bFtOXkijd79%2FPBQ%3D%3D) |
 
 ## Housing Components
+| Item # | Component Description | Quantity | Function | Part Number/Model | Supplier Link |
+|--------|---------------------|-----------|----------|------------------|---------------|
 | Y1 | Main body | 1 | house all components | - | - |
 | Y2 | Lid body | 1 | Seal internal components in complete housing structure | - | - |
 
