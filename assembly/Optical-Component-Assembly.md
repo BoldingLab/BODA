@@ -22,13 +22,15 @@ Reference the Bill of Materials (BOM) for detailed part numbers and supplier inf
 ## Assembly Steps
 
 ### 1. Initial Preparation
-- Remove the main body (Y1) from the fabrication raft
 - Clean all optical components with appropriate lens cleaning materials
 - Verify all components are present and undamaged
+<p align="center">
+  <img src="img/beforescope.jpg" alt="Example preparation">
+</p>
 
 ### 2. Doublet Installation
 1. Locate the excitation tower on the main body (Y1)
-2. Install both doublets in the excitation tower:
+2. Install the pair of doublets in the excitation tower:
    - Position the 60mm FL doublet (O4) facing downwards, away from the excitation tower
    - Position the 12.5mm FL doublet (O3) facing upwards, toward the excitation tower
 
@@ -66,6 +68,3 @@ Reference the Bill of Materials (BOM) for detailed part numbers and supplier inf
 - Store unused components in their original packaging
 - Keep work area clean and dust-free during assembly
 
----
-*Document Version: 1.1*
-*Reference: BOM version dated February 21, 2025*
