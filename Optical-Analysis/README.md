@@ -32,7 +32,7 @@ After numerous tests with different simulations and designs, the miniscope desig
 
 ![Figure 1: A simulation of the emission system of the miniscope in Zemax. The tables on the upper right lists each optical component within the system as well as the distance between. The table on the lower right showcases the magnification of the system.](../img/CurrentDesign/Simulation&MagnificationNew.png)
 Figure 1: A simulation of the emission system of the miniscope in Zemax. The tables on the upper right lists each optical component within the system as well as the distance between. The table on the lower right showcases the magnification of the system.
-![Figure 3: A simulation of the excitation system of the miniscope in Zemax. The tables on the upper right lists each optical component within the system as well as the distance between.](../img/CurrentDesign/excitation.png)
+![Figure 3: A simulation of the excitation system of the miniscope in Zemax. The tables on the upper right lists each optical component within the system as well as the distance between.](../img/CurrentDesign/Excitation.png)
 Figure 2: A simulation of the excitation system of the miniscope in Zemax. The tables on the upper right lists each optical component within the system as well as the distance between.
 ## IV. Results
 The new design of the miniscope successfully achieved the objective of the project and tackled the numerous challenges the previous design had. The current design is able to produce higher quality images by improving the image resolution, reducing chromatic aberration, and increasing the effectiveness of excitation.
