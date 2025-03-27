@@ -3,10 +3,10 @@
 ## Optical Components
 | Item # | Component Description | Quantity | Function | Part Number/Model | Supplier Link |
 |--------|---------------------|-----------|----------|------------------|---------------|
-| O1 | 6.0mm Dia x 6.0mm FL Plano-Convex Lens | 2 | LED focusing for excitation system | CODV_45078 | [Edmund Optics](https://www.edmundoptics.com/p/60mm-dia-x-60mm-fl-mgfsub2sub-coated-plano-convex-lens/5569/) |
-| O2 | 6.25mm Dia x 15mm FL Achromatic Doublet | 1 | Emission path imaging | CODV_32301 | [Edmund Optics](https://www.edmundoptics.com/p/625mm-dia-x-15mm-fl-mgfsub2sub-coated-achromatic-doublet-lens/2272/) |
-| O3 | 6.25mm Dia x 12.5mm FL Achromatic Doublet | 1 | Emission path imaging | CODV_32299 | [Edmund Optics](https://www.edmundoptics.com/p/625mm-dia-x-125mm-fl-mgfsub2sub-coated-achromatic-doublet-lens/2271/) |
-| O4 | 6.25mm Dia x 60mm FL Achromatic Doublet | 1 | Emission path imaging | CODV_45345 | [Edmund Optics](https://www.edmundoptics.com/p/625mm-dia-x-60mm-fl-mgfsub2sub-coated-achromatic-doublet-lens/5815/) |
+| O1 | 6.0mm Dia x 6.0mm FL Plano-Convex Lens | 2 | LED focusing for excitation system | #45-078 | [Edmund Optics](https://www.edmundoptics.com/p/60mm-dia-x-60mm-fl-mgfsub2sub-coated-plano-convex-lens/5569/) |
+| O2 | 6.25mm Dia x 15mm FL Achromatic Doublet | 1 | Emission path imaging | #32-301 | [Edmund Optics](https://www.edmundoptics.com/p/625mm-dia-x-15mm-fl-mgfsub2sub-coated-achromatic-doublet-lens/2272/) |
+| O3 | 6.25mm Dia x 12.5mm FL Achromatic Doublet | 1 | Emission path imaging | #32-299 | [Edmund Optics](https://www.edmundoptics.com/p/625mm-dia-x-125mm-fl-mgfsub2sub-coated-achromatic-doublet-lens/2271/) |
+| O4 | 6.25mm Dia x 60mm FL Achromatic Doublet | 1 | Emission path imaging | #45-345 | [Edmund Optics](https://www.edmundoptics.com/p/625mm-dia-x-60mm-fl-mgfsub2sub-coated-achromatic-doublet-lens/5815/) |
 | O5 | Emission Filter | 1 | Filtering emission light | 59022m | [Chroma](https://www.chroma.com/products/parts/59022m) |
 | O6 | Dichroic Filter | 1 | Splitting excitation and emission paths | CT455/556/664rpc | Custom Order from [Chroma](https://www.chroma.com/contact) |
 | O7 | Excitation Filter | 1 | Filtering excitation light | 59022x | [Chroma](https://www.chroma.com/products/parts/59022x) |
